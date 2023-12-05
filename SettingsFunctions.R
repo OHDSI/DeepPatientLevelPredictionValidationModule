@@ -1,4 +1,4 @@
-createPatientLevelPredictionValidationModuleSpecifications <- function(
+createDeepPatientLevelPredictionValidationModuleSpecifications <- function(
     validationComponentsList = list(
       list(
         targetId = 1,
