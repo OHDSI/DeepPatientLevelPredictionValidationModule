@@ -170,7 +170,7 @@ execute <- function(jobContext) {
     )
     
     if (!is.null(modelAttributes)) {
-      if (modelAttributes$predictionFunction != "predictDeepEstimator") {
+      if (modelAttributes$predictionFunction == "predictDeepEstimator") {
         
         plpModel <- tryCatch(
           {PatientLevelPrediction::loadPlpModel(modelLocation)},
