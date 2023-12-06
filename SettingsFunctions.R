@@ -27,7 +27,7 @@ createDeepPatientLevelPredictionValidationModuleSpecifications <- function(
   
   specifications <- list(
     module = "DeepPatientLevelPredictionValidationModule",
-    version = "0.0.2",
+    version = "0.0.3",
     remoteRepo = "github.com",
     remoteUsername = "ohdsi",
     settings = validationComponentsList
