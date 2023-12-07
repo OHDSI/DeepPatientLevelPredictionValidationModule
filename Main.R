@@ -124,6 +124,7 @@ createCohortDefinitionSetFromJobContext <- function(sharedResources, settings) {
 
 # Module methods -------------------------
 execute <- function(jobContext) {
+  library(DeepPatientLevelPrediction)
   rlang::inform("Validating inputs")
   inherits(jobContext, 'list')
 

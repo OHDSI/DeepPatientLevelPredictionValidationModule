@@ -756,11 +756,8 @@
     },
     "reticulate": {
       "Package": "reticulate",
-      "Version": "1.26",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Hash": "91c176c84a2e3558572d2cbaddc08bd4",
-      "Requirements": []
+      "Version": "1.34.0",
+      "Source": "Repository"
     },
     "rlang": {
       "Package": "rlang",
