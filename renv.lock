@@ -1,6 +1,6 @@
 {
   "R": {
-    "Version": "4.2.2",
+    "Version": "4.2.3",
     "Repositories": [
       {
         "Name": "CRAN",
@@ -75,14 +75,14 @@
     },
     "DeepPatientLevelPrediction": {
       "Package": "DeepPatientLevelPrediction",
-      "Version": "2.0.2",
+      "Version": "2.0.3.9999",
       "Source": "GitHub",
       "RemoteType": "github",
       "RemoteHost": "api.github.com",
       "RemoteUsername": "ohdsi",
       "RemoteRepo": "DeepPatientLevelPrediction",
-      "RemoteRef": "main",
-      "RemoteSha": "4356057c051c5dd72326f395a1a58b62212aee50"
+      "RemoteRef": "develop",
+      "RemoteSha": "ad79a069d55ebe168f995b5cd65159aa002ed5b7"
     },
     "Eunomia": {
       "Package": "Eunomia",
