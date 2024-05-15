@@ -82,7 +82,7 @@
       "RemoteUsername": "ohdsi",
       "RemoteRepo": "DeepPatientLevelPrediction",
       "RemoteRef": "develop",
-      "RemoteSha": "ad79a069d55ebe168f995b5cd65159aa002ed5b7"
+      "RemoteSha": "14bb13c36d9c25d62fcd811512ced77c9f1befdc"
     },
     "Eunomia": {
       "Package": "Eunomia",
@@ -146,14 +146,12 @@
       "Package": "PatientLevelPrediction",
       "Version": "6.3.8",
       "Source": "GitHub",
-      "Remotes": "ohdsi/BigKnn, ohdsi/ShinyAppBuilder, ohdsi/ResultModelManager",
       "RemoteType": "github",
       "RemoteHost": "api.github.com",
-      "RemoteRepo": "PatientLevelPrediction",
       "RemoteUsername": "ohdsi",
+      "RemoteRepo": "PatientLevelPrediction",
       "RemoteRef": "develop",
-      "RemoteSha": null,
-      "Requirements": []
+      "RemoteSha": "9e8925377bd078400af8294c29f982e58f60c3f7"
     },
     "R6": {
       "Package": "R6",
